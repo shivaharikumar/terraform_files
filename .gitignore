@@ -1,7 +1,7 @@
 # Local .terraform directories
 **/.terraform/*
 
-# .tfstate files
+# .tfstate files | If you want to save state in SCM no one is judging you, remove the next 2 lines
 *.tfstate
 *.tfstate.*
 
